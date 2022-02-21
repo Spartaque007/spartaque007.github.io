@@ -1,0 +1,11 @@
+{
+    "Name" : "Eugen Glinsky",
+    "StartWorkDate" : "2013-04-01",
+    "Skills" : [
+        {
+            "Category" : "Common",
+            "Items" : [".Net", ".Net core", "Azure"]
+        }
+
+    ]
+}
